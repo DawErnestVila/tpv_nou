@@ -1,0 +1,16 @@
+{
+  "name": "tpv",
+  "version": "1.0.0",
+  "description": "La funcionalitat bàsica del programa és un **Terminal Punt de Venda (TPV)**. Quan s’inicia l'aplicació, l'usuari ha d'introduir un **codi d'identificació del treballador**. Aquest codi pot ser seqüencial numèric, alfanumèric o qualsevol altre format que decidiu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "tailwindcss": "^4.1.8"
+  }
+}
